@@ -27,3 +27,28 @@ A merge of engineering, imagination, lifestyle, and deep conceptual creativity.
 • Ultra‑light files  
 • Royal conceptual identity  
 • Foundation for the Ω‑700 one‑year Full‑Stack path
+# Roadmap Ω‑700 (نسخهٔ شاهانی)
+
+## فصل اول: هستهٔ بنیادین (۳ ماه)
+• HTML  
+• CSS  
+• JavaScript  
+• Git & GitHub (کاملاً موبایلی)
+
+## فصل دوم: Frontend Core (۳ ماه)
+• React  
+• Next.js  
+• Tailwind  
+• پروژه‌های سطح سلطنتی
+
+## فصل سوم: Backend Core (۳ ماه)
+• Node.js  
+• Express  
+• MongoDB  
+• API Design
+
+## فصل چهارم: ادغام و تسلط (۳ ماه)
+• اتصال Front + Back  
+• Cloud Deployment  
+• پروژهٔ اصلی Google‑Shahān  
+• ورود به مسیر Life‑OS
