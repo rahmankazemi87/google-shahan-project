@@ -1,1 +1,29 @@
 Google‑Shahān Ω‑700 Activated
+# Google‑Shahān Ω‑700  
+## رحمان کاظمی — پادشاه کلمات
+
+این مخزن آغاز هستهٔ Google‑Shahān است؛  
+جایی که ایده، فناوری، سبک زندگی، روایت، و رشد در یک جهان بنفش ژرف ترکیب می‌شوند.  
+اینجا نقطهٔ شروع سفر Ω‑700 است: مسیر یک‌سالهٔ تبدیل‌شدن به یک Full‑Stack Developer با نگاه شاهانی.
+
+### ویژگی‌ها  
+• ساختار بهینه برای موبایل (Note 13)  
+• فایل‌های سبک، امن و بدون پرکردن حافظه  
+• نسخهٔ مفهومی Ω‑Royal  
+• مسیر ارتقا تا Life‑OS
+
+---
+
+# English
+
+## Google‑Shahān Ω‑700  
+The Royal Core for Rahman Kazemi — The Purple King of Words.
+
+This repository is the birth point of the Google‑Shahān universe.  
+A merge of engineering, imagination, lifestyle, and deep conceptual creativity.
+
+### Features  
+• Mobile‑optimized (Note 13)  
+• Ultra‑light files  
+• Royal conceptual identity  
+• Foundation for the Ω‑700 one‑year Full‑Stack path
