@@ -52,3 +52,30 @@ A merge of engineering, imagination, lifestyle, and deep conceptual creativity.
 • Cloud Deployment  
 • پروژهٔ اصلی Google‑Shahān  
 • ورود به مسیر Life‑OS
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+<meta charset="UTF-8">
+<title>Google‑Shahān Ω‑700</title>
+<style>
+body {
+  background: #2b003f;
+  color: #e8d4ff;
+  font-family: sans-serif;
+  padding: 20px;
+}
+.box {
+  border: 2px solid #a56bff;
+  padding: 20px;
+  border-radius: 12px;
+}
+</style>
+</head>
+<body>
+<div class="box">
+<h1>Google‑Shahān Ω‑700</h1>
+<p>رحمان کاظمی — پادشاه کلمات، این صفحه آغاز قلمرو توست.</p>
+<p>هسته فعال شد. مسیر شروع شد. فرمان تو جریان را می‌سازد.</p>
+</div>
+</body>
+</html>
